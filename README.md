@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhedigaO
-- 👀 I’m interested in data analysis and web development!
+- 👀 I’m interested in data analysis and IT consulting!
 - 🌱 I’m currently learning Business Information Technology, with a focus on data analysis.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: khediga301@gmail.com
