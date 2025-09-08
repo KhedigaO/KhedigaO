@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @KhedigaO
-- 👀 I’m interested in data analysis and IT consulting!
-- 🌱 I’m currently learning Business Information Technology, with a focus on data analysis.
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me: khediga301@gmail.com,
-- Let's connect! LinkedIn: https://www.linkedin.com/in/khediga-omer-1b3657203/ 
-- 😄 Pronouns: (she/her)
-- ⚡ Fun fact: I am a first-generation College student!
+# Hello, I’m Khediga (Ka-dee-jah)👋  
 
-<!---
-KhedigaO/KhedigaO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Business Information Technology student at NCAT, passionate about **data analytics, IT consulting, and product design**.  
+📊 Skilled in building dashboards, analyzing datasets, and helping small businesses grow their digital presence.  
+🌱 Currently expanding my skills through Coursera (Google Data Analytics) and hands-on projects like my **Automotive Supply Chain Dashboard**.  
+🤝 Open to collaborating on data-driven projects, student initiatives, and opportunities that empower underrepresented communities in tech.  
+✨ First-generation college student, inspired to break barriers and create opportunities for others.  
+
+📩 Reach me: khediga3010@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/khediga-omer-1b365f203) | [Portfolio](https://yourfuturelink.com)
