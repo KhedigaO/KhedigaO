@@ -5,7 +5,7 @@
 - 📫 How to reach me: khediga301@gmail.com,
 - Let's connect! LinkedIn: https://www.linkedin.com/in/khediga-omer-1b3657203/ 
 - 😄 Pronouns: (she/her)
-- ⚡ Fun fact: I have a cat and a bird!
+- ⚡ Fun fact: I am a first-generation College student!
 
 <!---
 KhedigaO/KhedigaO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
